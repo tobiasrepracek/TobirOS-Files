@@ -1,6 +1,6 @@
 @echo off
 color 0a
-title TobirOS | Setup
+title TobirOS - Setup
 
 echo Installing Tobir's startup script...
 cd "%UserProfile%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
